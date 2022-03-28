@@ -31,12 +31,6 @@ npm run json:server
 <img src="Resource/image3.jpg">
 <img src="Resource/image4.jpg">
 
-## Issues / Need changes
-
-- [] GEO location is not working 
-- [] Graph/charts are not fetchinng the correct data.
-- [] After checkout the payment successfull text is hardcoded.
-- [] Search some of the images are not showed in food section.
 
 
 
